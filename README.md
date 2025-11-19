@@ -3,7 +3,7 @@ Esta aplicacion es para **Android** funciona grabando ya sea:
 - Audio
 - Video
 - Imagenes
-##Integrantes de equipo
+  Integrantes de equipo
 1.- Derick
 2.- Nancy
 3.- *Eliel*
